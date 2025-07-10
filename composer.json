@@ -31,7 +31,7 @@
     "alibabacloud/openplatform-20191219": "2.0.1",
     "brooke1220/tea-oss-utils": "^0.3.1",
     "brooke1220/tea-fileform": "^0.3.0",
-    "alibabacloud/openapi-core": "^1.0.0"
+    "brooke1220/openapi-core": "^1.0.0"
   },
   "prefer-stable": true
 }
