@@ -1,5 +1,5 @@
 {
-  "name": "alibabacloud/videoseg-20200320",
+  "name": "brooke1220/videoseg-20200320",
   "type": "library",
   "description": "Alibaba Cloud videoseg (20200320) SDK Library for PHP",
   "github": "https://github.com/aliyun/alibabacloud-php-sdk",
@@ -27,10 +27,10 @@
   "require": {
     "php": ">5.5",
     "alibabacloud/darabonba": "^1.0.0",
-    "alibabacloud/tea-oss-sdk": "^0.3.0",
+    "brooke1220/tea-oss-sdk": "^0.3.0",
     "alibabacloud/openplatform-20191219": "2.0.1",
-    "alibabacloud/tea-oss-utils": "^0.3.1",
-    "alibabacloud/tea-fileform": "^0.3.0",
+    "brooke1220/tea-oss-utils": "^0.3.1",
+    "brooke1220/tea-fileform": "^0.3.0",
     "alibabacloud/openapi-core": "^1.0.0"
   },
   "prefer-stable": true
